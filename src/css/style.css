@@ -1,0 +1,12 @@
+.sorting-table {
+    margin: 100px auto;
+    border-collapse: collapse;
+    background-color: darkgray;
+    min-width: 373px;
+}
+
+td, th {
+    padding: 15px;
+    border: 2px solid #000;
+}
+
